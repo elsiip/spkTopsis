@@ -2,7 +2,7 @@
 
     $server = "localhost";
     $user = "root";
-    $pass = "";
+    $pass = "admin";
     $database = "db_topsis";
 
     $mysqli = new mysqli($server, $user, $pass, $database);
